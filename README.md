@@ -10,6 +10,6 @@ BikeStores datanase : is a database from sqlservertutorial https://www.sqlserver
 I analyzed sales and inventory data from multiple bike stores to identify opportunities for increasing financial returns and reducing spending. Through visualizations and financial analysis, I provided valuable insights to the owner to help optimize their business decisions.
 
 # Tools
--MySQL server : to analysis database
+- MySQL server : to analysis database
 
--Power bi and tableau : To visualize our insights
+- Power bi and tableau : To visualize our insights
